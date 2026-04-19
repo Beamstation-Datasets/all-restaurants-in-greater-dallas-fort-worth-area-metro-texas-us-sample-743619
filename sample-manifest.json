@@ -1,12 +1,12 @@
 {
-  "export_job_id": "df4785ee-ac7b-4941-ab57-fabd8bb01eee",
+  "export_job_id": "ab0afc36-8ed1-4fed-b085-4c0d9bc58670",
   "id_short": 743619,
-  "published_at": "2026-04-14T19:17:32Z",
+  "published_at": "2026-04-19T19:11:29Z",
   "repo_name": "all-restaurants-in-greater-dallas-fort-worth-area-metro-texas-us-sample-743619",
   "sample_asset_name": "beamstation_743619_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/743619/beamstation_743619_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "2a0a06792a114de964b04fbf64148a2d14fd20c3c81de13f0cf6156cc21df508",
-  "sample_size_bytes": 3205424,
-  "total_records": 19252
+  "sample_sha256": "196701324b77ba5ccd87ec1aee52ad65e622565f8ab30359bce8e613c4389482",
+  "sample_size_bytes": 3215900,
+  "total_records": 18833
 }
