@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant census for the Dallas-Fort Worth metropolitan area, one of the fastest-growing dining markets in the United States. Filtered by the Restaurants category group, this dataset spans the full DFW metro with business profiles, ratings, reviews, competitive benchmarks, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Dallas-Fort Worth Area (Metro), Texas, US",
-  "export_job_id": "a95da946-123f-448a-95c4-bf3443aba207",
+  "export_job_id": "a48ff218-f535-4c8f-a693-c3a680b3c6eb",
   "github_org": "Beamstation-Datasets",
   "id_short": 743619,
   "location_name": "Dallas-Fort Worth-Arlington, TX",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-greater-dallas-fort-worth-area-metro-texas-us-sample-743619",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/743619/beamstation_743619_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_pct": 7.7,
+  "sample_pct": 5.09,
   "sample_records": 1000,
-  "sample_sha256": "1d691bbd97a10a34c345662a56f4319f5f2dcd25dc82c696d584d23444b8d3ee",
-  "sample_size_bytes": 3452364,
-  "total_records": 12985,
-  "updated_at": "2026-04-23T12:39:24.015613+00:00"
+  "sample_sha256": "2f564ea12b5a2188ad3bb04564ed8add9fa6e0216f4eb0f35548b299839d6428",
+  "sample_size_bytes": 3204550,
+  "total_records": 19637,
+  "updated_at": "2026-05-01T00:38:46.350763+00:00"
 }
